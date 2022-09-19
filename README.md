@@ -66,12 +66,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Bhushan8554/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan8554&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Bhushan8554 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan8554&layout=compact&count_private=true" alt="Bhushan8554 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/bhushan8554/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bhushan8554&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan8554&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bhushan8554&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan8554&theme=gruvbox&hide_border=true&count_private=true" />
           </a>
        </p>
      <br>
@@ -82,7 +82,7 @@
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/Bhushan8554"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bhushan8554&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Bhushan8554"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bhushan8554&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true&count_private=true" /></a>
 </details>
 
 
