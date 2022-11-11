@@ -33,7 +33,7 @@
   </samp>
 </div>
 </details>
-
+<!-- 
 <details>
   <summary>🧮 about</summary>
 <div>
@@ -55,7 +55,7 @@
      alt="page built"/></a>
  </p>
 </div>
-</details>
+</details> -->
 
 
 
