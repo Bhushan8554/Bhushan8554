@@ -10,7 +10,7 @@
        alt="snake" /></a>
 </div>
 
-<details>
+<!-- <details> -->
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -32,7 +32,7 @@
     </p>
   </samp>
 </div>
-</details>
+<!-- </details> -->
 <!-- 
 <details>
   <summary>🧮 about</summary>
@@ -59,7 +59,7 @@
 
 
 
-<details> 
+<!-- <details>  -->
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -76,13 +76,13 @@
        </p>
      <br>
   </div>    
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/Bhushan8554"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bhushan8554&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true&count_private=true" /></a>
-</details>
+<!-- </details> -->
 
 
