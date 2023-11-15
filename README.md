@@ -82,6 +82,6 @@ https://github-readme-stats.vercel.app/api?username=bhushan8554&count_private=tr
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/Bhushan8554"><img alt="Bhushan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bhushan8554&bg_color=242938&color=81a9fe&line=00E676&point=81a9fe&hide_border=true&count_private=true" /></a>
+<a href="https://github.com/Bhushan8554"><img alt="Bhushan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan8554&bg_color=242938&color=81a9fe&line=00E676&point=81a9fe&hide_border=true&count_private=true" /></a>
 <!-- </details> -->
 
