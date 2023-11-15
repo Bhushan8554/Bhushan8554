@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://bhushan8554.github.io/">
-  <img  src="https://www.linkpicture.com/q/grid-snake.svg"
+  <img  src="https://svgshare.com/i/zi1.svg"
        alt="snake" /></a>
 </div>
 
