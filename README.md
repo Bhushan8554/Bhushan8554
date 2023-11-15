@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif">, I'm Bhushan</h1>
+<h1 align="center">Hi <img width="35" src="https://svgshare.com/i/zk8.svg">, I'm Bhushan</h1>
 <h4 align="center">A full stack developer passionate about coding, known about Backend and Frontend both Technologies.</h4>
 </div>
 
